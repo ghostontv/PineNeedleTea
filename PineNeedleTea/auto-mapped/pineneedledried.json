@@ -1,0 +1,31 @@
+{
+    "ModGenericComponent": {
+        "DisplayNameLocalizationId": "GAMEPLAY_PineNeedleDried",
+        "DescriptionLocalizatonId": "GAMEPLAY_PineNeedleDriedDescription",
+        "InventoryActionLocalizationId": "",
+        "WeightKG": 0.1,
+        "DaysToDecay": 900,
+        "MaxHP": 100,
+        "InitialCondition": "Perfect",
+        "InventoryCategory": "Material",
+        "PickUpAudio": "Play_SndInvPlantSmall",
+        "PutBackAudio": "Play_SndInvPlantSmall",
+        "StowAudio": "Play_SndInvPlantLeafy",
+        "WornOutAudio": "",
+        "InspectOnPickup": true,
+        "InspectDistance": 0.4,
+        "InspectAngles": [ 0, 0, 0 ],
+        "InspectOffset": [ 0, 0, 0 ],
+        "InspectScale": [ 1, 1, 1 ],
+        "NormalModel": "",
+        "InspectModel": ""
+    },
+    "ModStackableBehaviour": {
+        "SingleUnitTextId": "GAMEPLAY_PineNeedleDriedSingle",
+        "MultipleUnitTextId": "GAMEPLAY_PineNeedleDriedMultiple",
+        "StackSprite": "",
+        "UnitsPerItem": 1,
+        "ChanceFull": 0
+    }
+
+}

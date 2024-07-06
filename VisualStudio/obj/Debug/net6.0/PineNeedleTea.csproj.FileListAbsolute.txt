@@ -1,0 +1,8 @@
+D:\TLDMod\PineNeedleTea\VisualStudio\bin\Debug\net6.0\PineNeedleTea.deps.json
+D:\TLDMod\PineNeedleTea\VisualStudio\bin\Debug\net6.0\PineNeedleTea.dll
+D:\TLDMod\PineNeedleTea\VisualStudio\obj\Debug\net6.0\PineNeedleTea.csproj.AssemblyReference.cache
+D:\TLDMod\PineNeedleTea\VisualStudio\obj\Debug\net6.0\PineNeedleTea.GeneratedMSBuildEditorConfig.editorconfig
+D:\TLDMod\PineNeedleTea\VisualStudio\obj\Debug\net6.0\PineNeedleTea.csproj.CoreCompileInputs.cache
+D:\TLDMod\PineNeedleTea\VisualStudio\obj\Debug\net6.0\PineNeedleTea.dll
+D:\TLDMod\PineNeedleTea\VisualStudio\obj\Debug\net6.0\refint\PineNeedleTea.dll
+D:\TLDMod\PineNeedleTea\VisualStudio\obj\Debug\net6.0\ref\PineNeedleTea.dll

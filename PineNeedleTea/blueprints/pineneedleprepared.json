@@ -1,0 +1,19 @@
+{
+    "Name": "PreparedPineNeedle",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_PineNeedleDried",
+            "Count": 5
+        }
+    ],
+    "RequiredTool": "",
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_PineNeedlePrepared",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 15,
+    "CraftingAudio": "Play_HarvestingPlants",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

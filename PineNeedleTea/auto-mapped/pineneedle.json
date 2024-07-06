@@ -1,0 +1,35 @@
+{
+    "ModGenericComponent": {
+        "DisplayNameLocalizationId": "GAMEPLAY_PineNeedle",
+        "DescriptionLocalizatonId": "GAMEPLAY_PineNeedleDescription",
+        "InventoryActionLocalizationId": "",
+        "WeightKG": 0.1,
+        "DaysToDecay": 1000,
+        "MaxHP": 100,
+        "InitialCondition": "Perfect",
+        "InventoryCategory": "Material",
+        "PickUpAudio": "Play_SndInvPlantSmall",
+        "PutBackAudio": "Play_SndInvPlantSmall",
+        "StowAudio": "Play_SndInvPlantLeafy",
+        "WornOutAudio": "",
+        "InspectOnPickup": true,
+        "InspectDistance": 0.4,
+        "InspectAngles": [ 0, 0, 0 ],
+        "InspectOffset": [ 0, 0, 0 ],
+        "InspectScale": [ 1, 1, 1 ],
+        "NormalModel": "",
+        "InspectModel": ""
+    },
+    "ModEvolveBehaviour": {
+        "TargetItemName": "GEAR_PineNeedleDried",
+        "EvolveHours": 24,
+        "IndoorsOnly": true
+    },
+    "ModStackableBehaviour": {
+        "SingleUnitTextId": "GAMEPLAY_PineNeedleSingle",
+        "MultipleUnitTextId": "GAMEPLAY_PineNeedleMultiple",
+        "StackSprite": "",
+        "UnitsPerItem": 1,
+        "ChanceFull": 0
+    }
+}

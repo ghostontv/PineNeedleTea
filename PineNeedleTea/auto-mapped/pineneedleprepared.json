@@ -1,0 +1,44 @@
+{
+    "ModCookableComponent": {
+        "DisplayNameLocalizationId": "GAMEPLAY_PineNeedlePrepared",
+        "DescriptionLocalizatonId": "GAMEPLAY_PineNeedlePreparedDescription",
+        "InventoryActionLocalizationId": "",
+        "WeightKG": 0.3,
+        "DaysToDecay": 800,
+        "MaxHP": 100,
+        "InitialCondition": "Random",
+        "InventoryCategory": "FirstAid",
+        "PickUpAudio": "Play_SndInvPlantMedium",
+        "PutBackAudio": "Play_SndInvPlantMedium",
+        "StowAudio": "Play_SndInvPlantLeafy",
+        "WornOutAudio": "",
+        "InspectOnPickup": true,
+        "InspectDistance": 0.4,
+        "InspectAngles": [ 0, 0, 0 ],
+        "InspectOffset": [ 0, 0, 0 ],
+        "InspectScale": [ 1, 1, 1 ],
+        "NormalModel": "",
+        "InspectModel": "",
+
+        "Cooking": true,
+        "CookingMinutes": 15,
+        "CookingUnitsRequired": 1,
+        "CookingWaterRequired": 0.25,
+        "CookingResult": "GEAR_PineNeedleTea",
+        "BurntMinutes": 30,
+        "Type": "Liquid",
+        "CookingAudio": "Play_BoilingLiquidLight",
+        "StartCookingAudio": ""
+    },
+    "ModStackableBehaviour": {
+        "SingleUnitTextId": "GAMEPLAY_PineNeedlePreparedSingle",
+        "MultipleUnitTextId": "GAMEPLAY_PineNeedlePreparedMultiple",
+        "StackSprite": "",
+        "UnitsPerItem": 1,
+        "ChanceFull": 0
+    },
+    "ModTinderBehaviour": {
+            "DurationOffset": 2,
+            "SuccessModifier": 30
+        }
+}

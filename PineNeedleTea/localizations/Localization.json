@@ -1,0 +1,62 @@
+{
+
+    "GAMEPLAY_PineNeedle": {
+
+        "English": "Pine Fascicle"
+    },
+    "GAMEPLAY_PineNeedleSingle": {
+
+        "English": "Pine Fascicle"
+    },
+    "GAMEPLAY_PineNeedleMultiple": {
+
+        "English": "Pine Fascicles"
+    },
+    "GAMEPLAY_PineNeedleDescription": {
+
+        "English": "A little pine fascicle that fell from a tree. The needles can be used to brew tea."
+    },
+    "GAMEPLAY_PineNeedleDried": {
+
+        "English": "Dried Pine Fascicle"
+    },
+    "GAMEPLAY_PineNeedleDriedSingle": {
+
+        "English": "Dried Pine Fascicle"
+    },
+    "GAMEPLAY_PineNeedleDriedMultiple": {
+
+        "English": "Dried Pine Fascicles"
+    },
+    "GAMEPLAY_PineNeedleDriedDescription": {
+
+        "English": "A dried pine fascicle filled with needles. A bunch can be prepared to be brewed into tea."
+    },
+    "GAMEPLAY_PineNeedlePrepared": {
+
+        "English": "Prepared Pine Needles"
+    },
+    "GAMEPLAY_PineNeedlePreparedSingle": {
+
+        "English": "Prepared Pine Needles"
+    },
+    "GAMEPLAY_PineNeedlePreparedMultiple": {
+
+        "English": "Prepared Pine Needles"
+    },
+    "GAMEPLAY_PineNeedlePreparedDescription": {
+
+        "English": "A bundle of prepared pine needles that can be brewed into a tea. It also serves great as tinder."
+    },
+    "GAMEPLAY_PineNeedleTea": {
+
+        "English": "Pine Needle Tea"
+    },
+    "GAMEPLAY_PineNeedleTeaDescription": {
+
+        "English": "A herbal tea made from dried pine needles. Drinking it will help you sleep better."
+    }
+
+}
+
+
