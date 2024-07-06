@@ -12,21 +12,21 @@ The spawn rate of the fascicles can be adjusted via mod settings.
 
 # Item IDs
 
-- Pine Fascicle:
+Pine Fascicle:
 
-GEAR_PineNeedle
+- GEAR_PineNeedle
 
-- Dried Pine Fascicle:
+Dried Pine Fascicle:
 
-GEAR_PineNeedleDried
+- GEAR_PineNeedleDried
 
-- Prepared Pine Needles:
+Prepared Pine Needles:
 
-GEAR_PineNeedlePrepared
+- GEAR_PineNeedlePrepared
 
-- Pine Needle Tea:
+Pine Needle Tea:
 
-GEAR_PineNeedleTea
+- GEAR_PineNeedleTea
 
 # Installation
 
