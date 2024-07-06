@@ -1,5 +1,5 @@
 # Pine Needle Tea
-[!Screenshot](https://github.com/DemonBunnyBon/PineNeedleTea/blob/main/Thumb_PNT.png?raw=true)
+![Screenshot](https://github.com/DemonBunnyBon/PineNeedleTea/blob/main/Thumb_PNT.png?raw=true)
 
 A mod for The Long Dark that adds a renewable source of herbal tea.
 
