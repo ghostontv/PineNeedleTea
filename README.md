@@ -6,9 +6,11 @@ A mod for The Long Dark that adds a renewable source of herbal tea.
 # Details
 
 The mod adds pine fascicles that can be found underneath trees. 
+
 These can be gathered and after drying the needles can be prepared into a herbal tea or used as tinder.
 
-The spawn rate of the fascicles can be adjusted via mod settings.
+The spawn rate of the fascicles can be adjusted via mod settings. 
+
 
 # Item IDs
 
