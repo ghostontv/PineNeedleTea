@@ -2,59 +2,73 @@
 
     "GAMEPLAY_PineNeedle": {
 
-        "English": "Pine Fascicle"
+        "English": "Pine Fascicle",
+        "Turkish": "Çam Demeti"
     },
     "GAMEPLAY_PineNeedleSingle": {
 
-        "English": "Pine Fascicle"
+        "English": "Pine Fascicle",
+        "Turkish": "Çam Demeti"
     },
     "GAMEPLAY_PineNeedleMultiple": {
 
-        "English": "Pine Fascicles"
+        "English": "Pine Fascicles",
+        "Turkish": "Çam Demetleri"
     },
     "GAMEPLAY_PineNeedleDescription": {
 
-        "English": "A little pine fascicle that fell from a tree. The needles can be used to brew tea."
+        "English": "A little pine fascicle that fell from a tree. The needles can be used to brew tea.",
+        "Turkish": "Ağaçtan düşen küçük bir çam demeti. İğneleri çay demlemek için kullanılabilir."
     },
     "GAMEPLAY_PineNeedleDried": {
 
-        "English": "Dried Pine Fascicle"
+        "English": "Dried Pine Fascicle",
+        "Turkish": "Kurutulmuş Çam Demeti"
     },
     "GAMEPLAY_PineNeedleDriedSingle": {
 
-        "English": "Dried Pine Fascicle"
+        "English": "Dried Pine Fascicle",
+        "Turkish": "Kurutulmuş Çam Demeti"
     },
     "GAMEPLAY_PineNeedleDriedMultiple": {
 
-        "English": "Dried Pine Fascicles"
+        "English": "Dried Pine Fascicles",
+        "Turkish": "Kurutulmuş Çam Salkımı"
     },
     "GAMEPLAY_PineNeedleDriedDescription": {
 
-        "English": "A dried pine fascicle filled with needles. A bunch can be prepared to be brewed into tea."
+        "English": "A dried pine fascicle filled with needles. A bunch can be prepared to be brewed into tea.",
+        "Turkish": "İğnelerle dolu kurumuş bir çam salkımı. Çay demlemek için bir demet iğne kullanılabilir."
     },
     "GAMEPLAY_PineNeedlePrepared": {
 
-        "English": "Prepared Pine Needles"
+        "English": "Prepared Pine Needles",
+        "Turkish": "Hazırlanmış Çam İğneleri"
     },
     "GAMEPLAY_PineNeedlePreparedSingle": {
 
-        "English": "Prepared Pine Needles"
+        "English": "Prepared Pine Needles",
+        "Turkish": "Hazırlanmış Çam İğneleri"
     },
     "GAMEPLAY_PineNeedlePreparedMultiple": {
 
-        "English": "Prepared Pine Needles"
+        "English": "Prepared Pine Needles",
+        "Turkish": "Hazırlanmış Çam İğneleri"
     },
     "GAMEPLAY_PineNeedlePreparedDescription": {
 
-        "English": "A bundle of prepared pine needles that can be brewed into a tea. It also serves great as tinder."
+        "English": "A bundle of prepared pine needles that can be brewed into a tea. It also serves great as tinder.",
+        "Turkish": "Demleyip çay olarakda içilebilen çam demeti. Aynı zamanda çıra olarak da kullanılır."
     },
     "GAMEPLAY_PineNeedleTea": {
 
-        "English": "Pine Needle Tea"
+        "English": "Pine Needle Tea",
+        "Turkish": "Çam İğnesi Çayı"
     },
     "GAMEPLAY_PineNeedleTeaDescription": {
 
-        "English": "A herbal tea made from dried pine needles. Drinking it will help you sleep better."
+        "English": "A herbal tea made from dried pine needles. Drinking it will help you sleep better.",
+        "Turkish": "Kurutulmuş çam iğnelerinden yapılan bir bitki çayı. Bunu içmek daha iyi uyumanıza yardımcı olacaktır."
     }
 
 }
