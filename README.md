@@ -11,6 +11,7 @@ These can be gathered and after drying the needles can be prepared into a herbal
 
 The spawn rate of the fascicles can be adjusted via mod settings. 
 
+The tea offers benefits such as having a lot of vitamin C as well as the improved sleep buff, although it is slightly weaker than the buff from regular herbal tea. 
 
 # Item IDs
 
