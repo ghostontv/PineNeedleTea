@@ -32,5 +32,5 @@ Pine Needle Tea:
 
 # Installation
 
-- Install [Modders Gear Toolbox](https://github.com/Jods-Its/Modders-Gear-Toolbox/releases/), [ModComponent](https://github.com/dommrogers/ModComponent/releases/) and [CraftingRevisions](https://github.com/dommrogers/CraftingRevisions/releases/), they are required.
+- Install [ModSettings](https://github.com/DigitalzombieTLD/ModSettings/releases/), [ModComponent](https://github.com/dommrogers/ModComponent/releases/) and [CraftingRevisions](https://github.com/dommrogers/CraftingRevisions/releases/), they are required.
 - Extract files from the zip file into your mods folder. Make sure both the .dll and .modcomponent files are there!
