@@ -32,5 +32,5 @@ Pine Needle Tea:
 
 # Installation
 
-- Make sure you have all of the mod's dependencies installed (ModComponent,ModSettings and CraftingRevisions)
-- Extract files from the zip file into your mods folder. Make sure both the .DLL and .Modcomponent files are there!
+- Install [Modders Gear Toolbox](https://github.com/Jods-Its/Modders-Gear-Toolbox/releases/), [ModComponent](https://github.com/dommrogers/ModComponent/releases/) and [CraftingRevisions](https://github.com/dommrogers/CraftingRevisions/releases/), they are required.
+- Extract files from the zip file into your mods folder. Make sure both the .dll and .modcomponent files are there!
