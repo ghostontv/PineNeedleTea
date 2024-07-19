@@ -3,72 +3,86 @@
     "GAMEPLAY_PineNeedle": {
 
         "English": "Pine Fascicle",
-        "Turkish": "Çam Demeti"
+        "Turkish": "Çam Demeti",
+        "Italian": "Grappolo di Pino"
     },
     "GAMEPLAY_PineNeedleSingle": {
 
         "English": "Pine Fascicle",
-        "Turkish": "Çam Demeti"
+        "Turkish": "Çam Demeti",
+        "Italian": "Grappolo di Pino"
     },
     "GAMEPLAY_PineNeedleMultiple": {
 
         "English": "Pine Fascicles",
-        "Turkish": "Çam Demetleri"
+        "Turkish": "Çam Demetleri",
+        "Italian": "Grappoli di Pini"
     },
     "GAMEPLAY_PineNeedleDescription": {
 
         "English": "A little pine fascicle that fell from a tree. The needles can be used to brew tea.",
-        "Turkish": "Ağaçtan düşen küçük bir çam demeti. İğneleri çay demlemek için kullanılabilir."
+        "Turkish": "Ağaçtan düşen küçük bir çam demeti. İğneleri çay demlemek için kullanılabilir.",
+        "Italian": "Un piccolo grappolo di pino caduto da un albero. Gli aghi si possono usare per preparare un tè."
     },
     "GAMEPLAY_PineNeedleDried": {
 
         "English": "Dried Pine Fascicle",
-        "Turkish": "Kurutulmuş Çam Demeti"
+        "Turkish": "Kurutulmuş Çam Demeti",
+        "Italian": "Grappolo di Pino Secco"
     },
     "GAMEPLAY_PineNeedleDriedSingle": {
 
         "English": "Dried Pine Fascicle",
-        "Turkish": "Kurutulmuş Çam Demeti"
+        "Turkish": "Kurutulmuş Çam Demeti",
+        "Italian": "Grappolo di Pino Secco"
     },
     "GAMEPLAY_PineNeedleDriedMultiple": {
 
         "English": "Dried Pine Fascicles",
-        "Turkish": "Kurutulmuş Çam Salkımı"
+        "Turkish": "Kurutulmuş Çam Salkımı",
+        "Italian": "Grappoli di Pini Secchi"
     },
     "GAMEPLAY_PineNeedleDriedDescription": {
 
         "English": "A dried pine fascicle filled with needles. A bunch can be prepared to be brewed into tea.",
-        "Turkish": "İğnelerle dolu kurumuş bir çam salkımı. Çay demlemek için bir demet iğne kullanılabilir."
+        "Turkish": "İğnelerle dolu kurumuş bir çam salkımı. Çay demlemek için bir demet iğne kullanılabilir.",
+        "Italian": "Un grappolo di pino secco pieno di aghi. Un paio può essere preparato e infuso in un tè."
     },
     "GAMEPLAY_PineNeedlePrepared": {
 
         "English": "Prepared Pine Needles",
-        "Turkish": "Hazırlanmış Çam İğneleri"
+        "Turkish": "Hazırlanmış Çam İğneleri",
+        "Italian": "Aghi di Pino Preparati"
     },
     "GAMEPLAY_PineNeedlePreparedSingle": {
 
         "English": "Prepared Pine Needles",
-        "Turkish": "Hazırlanmış Çam İğneleri"
+        "Turkish": "Hazırlanmış Çam İğneleri",
+        "Italian": "Aghi di Pino Preparati"
     },
     "GAMEPLAY_PineNeedlePreparedMultiple": {
 
         "English": "Prepared Pine Needles",
-        "Turkish": "Hazırlanmış Çam İğneleri"
+        "Turkish": "Hazırlanmış Çam İğneleri",
+        "Italian": "Aghi di Pini Preparati"
     },
     "GAMEPLAY_PineNeedlePreparedDescription": {
 
         "English": "A bundle of prepared pine needles that can be brewed into a tea. It also serves great as tinder.",
-        "Turkish": "Demleyip çay olarakda içilebilen çam demeti. Aynı zamanda çıra olarak da kullanılır."
+        "Turkish": "Demleyip çay olarakda içilebilen çam demeti. Aynı zamanda çıra olarak da kullanılır.",
+        "Italian": "Un mazzo di aghi di pino preparati che possono essere infusi in un tè. Può anche servire come una buona esca per il fuoco."
     },
     "GAMEPLAY_PineNeedleTea": {
 
         "English": "Pine Needle Tea",
-        "Turkish": "Çam İğnesi Çayı"
+        "Turkish": "Çam İğnesi Çayı",
+        "Italian": "Tè di Aghi di Pino"
     },
     "GAMEPLAY_PineNeedleTeaDescription": {
 
         "English": "A herbal tea made from dried pine needles. Drinking it will help you sleep better.",
-        "Turkish": "Kurutulmuş çam iğnelerinden yapılan bir bitki çayı. Bunu içmek daha iyi uyumanıza yardımcı olacaktır."
+        "Turkish": "Kurutulmuş çam iğnelerinden yapılan bir bitki çayı. Bunu içmek daha iyi uyumanıza yardımcı olacaktır.",
+        "Italian": "Una tisana fatta da aghi di pino secchi. Berlo aiuta a dormire meglio."
     }
 
 }
